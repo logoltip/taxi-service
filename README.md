@@ -18,9 +18,6 @@ Simple web app that supports registration, authentication and have basic CRUD op
 - DAO layer - Work with database
 ### 🛠️ Technologies used:
 Java 11, JDBC, MySql, TomCat 9.0.71, Maven
-### 📱 How to use app without install:
-This app is hosted on [coming soon]().
-To log in, you can use existing properties: login - _the_boss_is_here_, password - _777_ or create a new driver for yourself.
 ### 💻️ How to install app:
 1. You need to install Intellij, JDK 11, MySQL and TomCat 9.* on your computer (if you don't have some already);
 2. Clone this project on GitHub;
